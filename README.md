@@ -14,8 +14,8 @@ I use a combination of HP ELITEDESK mini pc's. The mini PC's are great because t
 
 ## Networking
 
-Cisco SG500-52 Switch
-Alta Labs S8 PoE Switch 
-Alta Labs Route10 Router
-Alta Labs AP6 Professional Access Point
-Alta Labs AP6 Access Point
+   -Cisco SG500-52 Switch \
+   -Alta Labs S8 PoE Switch \  
+   -Alta Labs Route10 Router \
+   -Alta Labs AP6 Professional Access Point \
+   -Alta Labs AP6 Access Point
