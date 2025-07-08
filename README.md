@@ -18,4 +18,5 @@ I use a combination of HP ELITEDESK mini pc's. The mini PC's are great because t
    -Alta Labs S8 PoE Switch \  
    -Alta Labs Route10 Router \
    -Alta Labs AP6 Professional Access Point \
-   -Alta Labs AP6 Access Point
+   -Alta Labs AP6 Access Point \
+   -Dell Poweredge R620 Xeon 2x E5-2695 v2 2.4ghz 24-Cores
